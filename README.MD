@@ -7,3 +7,5 @@ The tool based on [Neural Style Transfer (NST)](https://neerc.ifmo.ru/wiki/index
 The application run on [streamlit.io](https://streamlit.io) platform.
 
 Because of lack of time the tool is not ready yet. Only simple interface (emulated some actions) is ready.
+
+To see work of the app visit [https://styling-imgs-tool-g.streamlit.app/](https://styling-imgs-tool-g.streamlit.app/)
