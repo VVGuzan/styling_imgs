@@ -72,7 +72,7 @@ if style is not None:
 
 # show result when succeed
 st.markdown('## 3. Result of style transfer')
-st.write('Now for testing only contour filter is applied')
+st.write('Now for testing only contour or blur filters are applied')
 if is_src_uploaded and is_style_uploaded:
     st.session_state.curr_state = 'ready'
     
